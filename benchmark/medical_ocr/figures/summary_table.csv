@@ -1,0 +1,5 @@
+Dataset,Engine,CER,WER,Exact Match,Latency (ms),N Runs
+rxhandbd,EasyOCR(lang=en),0.6952,1.0741,0.0260,13.6493,1
+rxhandbd,GLM-OCR(0.9B),0.3284,0.8013,0.3256,140.6352,1
+rxhandbd,PP-OCRv5(lang=en),0.4772,0.7890,0.2142,102.8413,1
+rxhandbd,Tesseract(lang=eng),0.7848,1.0426,0.0249,49.2072,1
