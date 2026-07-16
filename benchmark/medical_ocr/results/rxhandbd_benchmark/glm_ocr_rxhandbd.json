@@ -1,0 +1,16 @@
+[
+  {
+    "engine": "GLM-OCR(0.9B)",
+    "engine_key": "glm_ocr",
+    "dataset": "rxhandbd",
+    "n_samples": 5578,
+    "cer": 0.3283760634128662,
+    "wer": 0.8012728576550735,
+    "exact_match_rate": 0.32556471853711005,
+    "mean_latency_ms": 140.63519810089267,
+    "median_latency_ms": 132.64118749066256,
+    "std_latency_ms": 51.95970527240332,
+    "total_time_s": 784.4631350067793,
+    "run_idx": 0
+  }
+]

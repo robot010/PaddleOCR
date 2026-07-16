@@ -1,0 +1,13 @@
+# Dataset files (large, download separately)
+data/rxhandbd/
+data/prescription_bd/
+data/medocr_vision/
+data/illegible_prescriptions/
+
+# Results (regenerable)
+results/*.json
+
+# Figures (regenerable)
+figures/*.png
+figures/*.csv
+figures/*.tex

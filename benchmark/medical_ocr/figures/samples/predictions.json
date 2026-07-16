@@ -1,0 +1,632 @@
+[
+  {
+    "image": "data/rxhandbd/images/P2130.jpg",
+    "image_name": "P2130.jpg",
+    "ground_truth": "Vineet",
+    "predictions": {
+      "tesseract": {
+        "text": "net",
+        "latency_ms": 169.1,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Vie]",
+        "latency_ms": 209.6,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "",
+        "latency_ms": 116.5,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Vineet",
+        "latency_ms": 431.6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P3346.jpg",
+    "image_name": "P3346.jpg",
+    "ground_truth": "Ceftriaxone",
+    "predictions": {
+      "tesseract": {
+        "text": "Wau",
+        "latency_ms": 103.0,
+        "cer": 0.9091,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "@@FNRH",
+        "latency_ms": 55.1,
+        "cer": 0.8182,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "CEFRAXONE",
+        "latency_ms": 152.4,
+        "cer": 0.1818,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "CEFTRIAXONE",
+        "latency_ms": 195.1,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P3344.jpg",
+    "image_name": "P3344.jpg",
+    "ground_truth": "Ambrox",
+    "predictions": {
+      "tesseract": {
+        "text": "jn",
+        "latency_ms": 100.7,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Habys",
+        "latency_ms": 16.3,
+        "cer": 0.8333,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "",
+        "latency_ms": 53.0,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Axmbrox",
+        "latency_ms": 209.8,
+        "cer": 0.1667,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P0098.jpg",
+    "image_name": "P0098.jpg",
+    "ground_truth": "Fylox",
+    "predictions": {
+      "tesseract": {
+        "text": "Flo",
+        "latency_ms": 98.7,
+        "cer": 0.4,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Fxbx",
+        "latency_ms": 15.8,
+        "cer": 0.6,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "xo1|j",
+        "latency_ms": 120.1,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Fy10x",
+        "latency_ms": 167.3,
+        "cer": 0.4,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P3929.jpg",
+    "image_name": "P3929.jpg",
+    "ground_truth": "Fexo",
+    "predictions": {
+      "tesseract": {
+        "text": "Seve",
+        "latency_ms": 100.5,
+        "cer": 0.75,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Texo",
+        "latency_ms": 25.7,
+        "cer": 0.25,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "-exo",
+        "latency_ms": 117.6,
+        "cer": 0.25,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "- $ \\sqrt {e} x_{0} $",
+        "latency_ms": 258.8,
+        "cer": 4.75,
+        "wer": 6.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P4047.jpg",
+    "image_name": "P4047.jpg",
+    "ground_truth": "DDR",
+    "predictions": {
+      "tesseract": {
+        "text": "DDR",
+        "latency_ms": 99.1,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      },
+      "easyocr": {
+        "text": "DDJY",
+        "latency_ms": 21.0,
+        "cer": 0.6667,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "DDR",
+        "latency_ms": 117.6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      },
+      "glm_ocr": {
+        "text": "DDR",
+        "latency_ms": 150.7,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P4679.jpg",
+    "image_name": "P4679.jpg",
+    "ground_truth": "ceevit",
+    "predictions": {
+      "tesseract": {
+        "text": "dw {",
+        "latency_ms": 100.0,
+        "cer": 1.0,
+        "wer": 2.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Quv |",
+        "latency_ms": 17.0,
+        "cer": 0.8333,
+        "wer": 2.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Cevi",
+        "latency_ms": 118.9,
+        "cer": 0.3333,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "cevit",
+        "latency_ms": 140.3,
+        "cer": 0.1667,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P0212.jpg",
+    "image_name": "P0212.jpg",
+    "ground_truth": "Zolfin",
+    "predictions": {
+      "tesseract": {
+        "text": "",
+        "latency_ms": 97.9,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "7o1 J\"",
+        "latency_ms": 21.3,
+        "cer": 0.8333,
+        "wer": 2.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "zolfiu",
+        "latency_ms": 119.0,
+        "cer": 0.1667,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "2016'u",
+        "latency_ms": 194.2,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P4342.jpg",
+    "image_name": "P4342.jpg",
+    "ground_truth": "Ronem",
+    "predictions": {
+      "tesseract": {
+        "text": "Rot",
+        "latency_ms": 104.2,
+        "cer": 0.6,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Row M",
+        "latency_ms": 25.4,
+        "cer": 0.4,
+        "wer": 2.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Ronem",
+        "latency_ms": 118.3,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      },
+      "glm_ocr": {
+        "text": "Ronem",
+        "latency_ms": 151.6,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P3016.jpg",
+    "image_name": "P3016.jpg",
+    "ground_truth": "Calcor-D",
+    "predictions": {
+      "tesseract": {
+        "text": "lt)",
+        "latency_ms": 99.4,
+        "cer": 0.875,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "@Vuyp",
+        "latency_ms": 19.9,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "",
+        "latency_ms": 51.2,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "calcor-D",
+        "latency_ms": 136.5,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P4066.jpg",
+    "image_name": "P4066.jpg",
+    "ground_truth": "Tablet",
+    "predictions": {
+      "tesseract": {
+        "text": "Tol.",
+        "latency_ms": 99.8,
+        "cer": 0.6667,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Tcb:",
+        "latency_ms": 24.9,
+        "cer": 0.6667,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Tab",
+        "latency_ms": 117.0,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Tab.",
+        "latency_ms": 171.0,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P2489.jpg",
+    "image_name": "P2489.jpg",
+    "ground_truth": "Neuro-B",
+    "predictions": {
+      "tesseract": {
+        "text": "lund",
+        "latency_ms": 98.6,
+        "cer": 0.8571,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Muub-4",
+        "latency_ms": 20.7,
+        "cer": 0.7143,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "",
+        "latency_ms": 51.1,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Neuro-B",
+        "latency_ms": 136.1,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P1840.jpg",
+    "image_name": "P1840.jpg",
+    "ground_truth": "Anfrocef",
+    "predictions": {
+      "tesseract": {
+        "text": "",
+        "latency_ms": 95.3,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "mat",
+        "latency_ms": 14.9,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Andnlat",
+        "latency_ms": 118.6,
+        "cer": 0.75,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Andrew",
+        "latency_ms": 137.1,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P3363.jpg",
+    "image_name": "P3363.jpg",
+    "ground_truth": "Anadol",
+    "predictions": {
+      "tesseract": {
+        "text": "AN ADO",
+        "latency_ms": 100.7,
+        "cer": 0.3333,
+        "wer": 2.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "TanAdo",
+        "latency_ms": 17.0,
+        "cer": 0.3333,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "",
+        "latency_ms": 50.5,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "ANADOL",
+        "latency_ms": 139.5,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P2072.jpg",
+    "image_name": "P2072.jpg",
+    "ground_truth": "Eslilex",
+    "predictions": {
+      "tesseract": {
+        "text": "ESley",
+        "latency_ms": 97.6,
+        "cer": 0.4286,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Esukx",
+        "latency_ms": 16.1,
+        "cer": 0.5714,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Escilex",
+        "latency_ms": 116.7,
+        "cer": 0.1429,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "ESG1ex",
+        "latency_ms": 157.5,
+        "cer": 0.4286,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P0343.jpg",
+    "image_name": "P0343.jpg",
+    "ground_truth": "Eylox",
+    "predictions": {
+      "tesseract": {
+        "text": "",
+        "latency_ms": 96.1,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Ellox",
+        "latency_ms": 15.0,
+        "cer": 0.2,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Eylox",
+        "latency_ms": 117.4,
+        "cer": 0.0,
+        "wer": 0.0,
+        "exact_match": true
+      },
+      "glm_ocr": {
+        "text": "Fylox",
+        "latency_ms": 160.9,
+        "cer": 0.2,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P0597.jpg",
+    "image_name": "P0597.jpg",
+    "ground_truth": "Pantonix",
+    "predictions": {
+      "tesseract": {
+        "text": "ay",
+        "latency_ms": 98.4,
+        "cer": 0.875,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Kky",
+        "latency_ms": 19.5,
+        "cer": 1.0,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Pantomy",
+        "latency_ms": 118.7,
+        "cer": 0.375,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Pantomix",
+        "latency_ms": 160.4,
+        "cer": 0.125,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  },
+  {
+    "image": "data/rxhandbd/images/P1824.jpg",
+    "image_name": "P1824.jpg",
+    "ground_truth": "Telfro max",
+    "predictions": {
+      "tesseract": {
+        "text": "ce",
+        "latency_ms": 98.4,
+        "cer": 0.9,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "easyocr": {
+        "text": "Telnvp",
+        "latency_ms": 16.1,
+        "cer": 0.7,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "ppocr_v5": {
+        "text": "Tellromop",
+        "latency_ms": 117.6,
+        "cer": 0.4,
+        "wer": 1.0,
+        "exact_match": false
+      },
+      "glm_ocr": {
+        "text": "Telepromp",
+        "latency_ms": 158.7,
+        "cer": 0.5,
+        "wer": 1.0,
+        "exact_match": false
+      }
+    }
+  }
+]

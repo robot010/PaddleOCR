@@ -1,0 +1,16 @@
+[
+  {
+    "engine": "EasyOCR(lang=en)",
+    "engine_key": "easyocr",
+    "dataset": "rxhandbd",
+    "n_samples": 5578,
+    "cer": 0.695178310968811,
+    "wer": 1.0740707541532208,
+    "exact_match_rate": 0.02599498027967013,
+    "mean_latency_ms": 13.649252780472128,
+    "median_latency_ms": 12.745604035444558,
+    "std_latency_ms": 6.942430686449938,
+    "total_time_s": 76.13553200947354,
+    "run_idx": 0
+  }
+]

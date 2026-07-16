@@ -1,0 +1,16 @@
+[
+  {
+    "engine": "PP-OCRv5(lang=en)",
+    "engine_key": "ppocr_v5",
+    "dataset": "rxhandbd",
+    "n_samples": 5578,
+    "cer": 0.47717673346931094,
+    "wer": 0.7889924704195052,
+    "exact_match_rate": 0.21423449264969524,
+    "mean_latency_ms": 102.84128839835832,
+    "median_latency_ms": 117.50756201217882,
+    "std_latency_ms": 29.45644426261395,
+    "total_time_s": 573.6487066860427,
+    "run_idx": 0
+  }
+]

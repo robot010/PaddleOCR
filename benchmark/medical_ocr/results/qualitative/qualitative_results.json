@@ -1,0 +1,77 @@
+[
+  {
+    "image": "1.jpg",
+    "outputs": {
+      "tesseract": {
+        "text": "Dr B. Who\nFarmstreet 12\nKirkville\ntel. 3876\n\nR/ “date Ta 1994\nDiyowin ONT ny\nCette da wot\nSof dd 1 Mer\n\nMs/Mr Patent 30\n\naddress:\n\nage: Ape years",
+        "word_count": 29,
+        "latency_ms": 150.5
+      },
+      "ppocr_v5": {
+        "text": "Dr B. Who Farmstreet 12 Kirkville tel. 3876 R/ date 1 Mor 1994 Digoxin 0.125 ig tathch da wo.7 s 1 dd 1 hattat B.4AO Ms/Mr Pahiènt 30 address: agc: 70 years",
+        "word_count": 32,
+        "latency_ms": 1586.7
+      }
+    }
+  },
+  {
+    "image": "10.jpg",
+    "outputs": {
+      "tesseract": {
+        "text": "Dr. Naveen Polavarapu P, lo\nMRCP (UK), FRE (Guntrs) CCH (Gastro), Lior Teany ecrental\n\ntanaplant Neowship\nConsultant Gastroenterojogist and Transplant Hepatologist\nReO4.No, 46206\nP 040 - 2360 7777 Extn 4005/1142\nFor a\n\nEa ae meets Cal between 10 am « 6m :738277eaN0 ay Jala\nEmail: docpolav@gmarene\n\nTO Whom So EveR TT MAY Concern\n\nThis us ts En}orrs shat Wr. Ch. SAmuec oye | Male\nus veonently adnuttod ude oy Core wth dP-No: 36458¢-.\nHe i casey wideigeing Fialuit wh COV + a\nrec Rapsir usith Mobs Chay Duss abscese 29\n\n8 n te Yur needy bisxpital Ly\nAnpinacion proumanis). te =\n\nabout € - Yo days iene\n‘diy doe needkul .\n\niif avd Kerdly\n\nq 1\n\nApollo Hospitals, Jublies Hits, Hyd-25.\n\nio eats Cy Campus, 91-1860 258 1066 fax: +91-40-23608050, SEPT\npdr onal ordleatmgent cet @ s ot\nspalohealoncty@ apolotosptats rapllotealth apolioheatthcity J apolloheahthnyd wa apotoheatthctyhye\n\nS imate Diiibbea kes a Wier eo ale 1",
+        "word_count": 155,
+        "latency_ms": 423.5
+      },
+      "ppocr_v5": {
+        "text": "Dr. Naveen Polavarapu MRCP (UK). FRCP (Gasto). CCT (asto), Livr TranslantFowship) Consultant Gastroenterologist and Transplant Hepatologist Apollo INSTITUTES OF GASTROENTEROLOGY Regd.No. 46206 P 040-2360 7777, Extn 4005/1142 HOSHITALD For appointments call between 10 am  6 pm:7382778899 Email: docpolav@gmail.com 1/8/he TO WNOM SO EVER IT MAY CONCERN This is to infom that Mr. cn sAmuel byr Male is cuuently admitted unde my Cae with Ip.No: 367588. He is ny ndoing tan in I for severe lepses with moos lkedy luier abscese with arpiration preumenia ). the futhe needs dhoepital stay for about &-1o days for complite recovey This is to enform and kindly do the needful. Thankig You. Dr. NAVEEN POLAVARAPU (cnseg) (800 (on0)8W (Up) d08/ (0d0en) Uver Tampli ConsultantC Transplant H 2 Regd. No:46206 Apollo Hospitals, Jubilee Hils, Hyd-96. OAAAPS2 Apo Hea Ciy Cau, Jublee Hi Hyab00 09,+1860 8106 +9-40-236000.nyCal1066 apollohealhcity@apoliohospitals.com wwwapoloheathcity.com apalioheathcityapollohealthydapolioteathcityhy",
+        "word_count": 143,
+        "latency_ms": 8878.5
+      }
+    }
+  },
+  {
+    "image": "100.jpg",
+    "outputs": {
+      "tesseract": {
+        "text": "Phone, Ind. Colombia 36\nDR. W. P. BAKER\n\nPhysician and Surgeon\nOffice and Residence, Keefe Building Hillman City, Seattle\n\nRo Lek Ce adoeh.\n\nge\nae\n\ner ac at\n\nM. D.\n\nCOLUMBIA TAKE THIS TO CAMERON’S DRUG STORE HILLMAN\nColumbia 84 East 4390 Columbia 44",
+        "word_count": 44,
+        "latency_ms": 278.3
+      },
+      "ppocr_v5": {
+        "text": "Phone, Ind. Columbia 36 DR. W. P. BAKER Physician and Surgeon Office and Residence, Keefe Building Hillman City, Seattle B Sick headache For het. @asnobis Ind. qrIV. beinx croton chloro. f2 cap. 2o xv. Siy Tise one codas repet in thoue 4/ M. D. COLUMBIA TAKE THIS TO CAMERON'S DRUG STORE HILLMAN Columbia 84 East 4390 Columbia 44",
+        "word_count": 58,
+        "latency_ms": 5217.4
+      }
+    }
+  },
+  {
+    "image": "101.jpg",
+    "outputs": {
+      "tesseract": {
+        "text": "&, Follow up advice:\n\noo .\n7 A. ~ ~ -_\"",
+        "word_count": 11,
+        "latency_ms": 211.8
+      },
+      "ppocr_v5": {
+        "text": "Medicines Prescribed: S.no Medicine (CAPITAL LETTERS PLEASE) Strength Timings Days Moftng Afteioon Everting 1 TDid ou Bdan 2 T.Ransto 3 1 4 5 Follow up advice: d sstu Doctor:",
+        "word_count": 29,
+        "latency_ms": 4406.1
+      }
+    }
+  },
+  {
+    "image": "102.jpg",
+    "outputs": {
+      "tesseract": {
+        "text": "_ ~ U Wesoced ” “£5 cbalk”\n\nheen » Lap",
+        "word_count": 10,
+        "latency_ms": 188.8
+      },
+      "ppocr_v5": {
+        "text": "Menes :vey light. $heds lest bAl ~lyrapo 30 Shim roD PNO 10D String Senn 1uD hook used $140  Ultrasound to eik ont 6 uofco RTC aten u promon 4289 F",
+        "word_count": 30,
+        "latency_ms": 2415.3
+      }
+    }
+  }
+]

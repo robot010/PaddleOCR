@@ -1,0 +1,16 @@
+[
+  {
+    "engine": "Tesseract(lang=eng)",
+    "engine_key": "tesseract",
+    "dataset": "rxhandbd",
+    "n_samples": 5578,
+    "cer": 0.7848440962348298,
+    "wer": 1.0426078642285166,
+    "exact_match_rate": 0.02491932592326999,
+    "mean_latency_ms": 49.20717187397958,
+    "median_latency_ms": 49.17208349797875,
+    "std_latency_ms": 2.1422655808596835,
+    "total_time_s": 274.4776047130581,
+    "run_idx": 0
+  }
+]
